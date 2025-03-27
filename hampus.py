@@ -1,4 +1,4 @@
-def hampus_function():
+def hello():
     return print("Hampus heter jag")
 
 def food():

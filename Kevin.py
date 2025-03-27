@@ -1,7 +1,7 @@
-print("hello")
 
-def kevin_function():
+
+def hello():
         print("hej kevin")
 
-
-kevin_function()
+def food():
+    print("köttbullar")

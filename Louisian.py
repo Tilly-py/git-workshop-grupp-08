@@ -1,5 +1,5 @@
-L = input ("Louisian")
-print (L)
+def hello():
+    print ("Louisian")
 
-mat = input ("pizza")
-print (mat)
+def food():
+    print ("pizza")
