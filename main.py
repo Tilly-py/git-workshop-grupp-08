@@ -1,7 +1,7 @@
 import hampus 
 import alex
-import kevin
-import louisian 
+import Kevin
+import Louisian 
 
 
 def main():
@@ -13,12 +13,12 @@ def main():
         return main()
     
     if name == "1":
-        return kevin.food()
+        return Kevin.food()
     elif name == "2":
         return hampus.food()
     elif name == "3":
         return alex.alex_food()
     else:
-        return louisian.food()
+        return Louisian.food()
 
 main()
