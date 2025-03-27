@@ -1,7 +1,8 @@
-
+def drink():
+    print("coke")
 
 def hello():
-        print("hej kevin")
+    print("hej kevin")
 
 def food():
     print("köttbullar")
