@@ -3,5 +3,8 @@ def hello():
     print("sen kom ingenting")
 
 def food():
-    print("Jag favoritmat är köttbullar")
+    print("Alex favorit mat är köttbullar")
+
+def drink():
+    print("Alex favorit dryck är Jolt cola")
 
