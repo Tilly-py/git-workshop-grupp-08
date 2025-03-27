@@ -3,3 +3,6 @@ def hello():
 
 def food():
     return print("Jag gillar pizza")
+
+def drink():
+    return print("Jag dricker vatten")
