@@ -1,2 +1,4 @@
 # git-workshopp-grupp-08
-Aloha! 
+
+Aloha!
+alex e 3lite
